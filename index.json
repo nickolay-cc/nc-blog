@@ -18,6 +18,23 @@
       "url": "/blog/you-want-to-buy"
     },
     {
+      "title": "why you should buy now",
+      "date": "2026-01-27",
+      "type": "buyer",
+      "tags": [
+        "buyer"
+      ],
+      "excerpt": "why prices are cheaper in 2023",
+      "slug": "why-you-should-buy-now",
+      "thumbnail": "",
+      "media": {
+        "kind": "none",
+        "youtube_id": "",
+        "images": []
+      },
+      "url": "/blog/why-you-should-buy-now"
+    },
+    {
       "title": "You Are Renting",
       "date": "2026-01-27",
       "type": "renter",
