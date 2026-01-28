@@ -17,3 +17,4 @@ If you can do three things easily, you’ll probably like it here:
 ![St. Catharines lifestyle image test](https://images.unsplash.com/photo-1520975682031-a3a00f4b6d33?auto=format&fit=crop&w=1600&q=80)
 
 We’ll replace this with your own photos later — the goal is just to confirm images render cleanly from a URL.
+---
