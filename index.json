@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "title": "You Want to Buy",
+      "date": "2026-01-27",
+      "type": "buyer",
+      "tags": [
+        "buyer"
+      ],
+      "excerpt": "Buy now. This is a test buyer blog.",
+      "slug": "you-want-to-buy",
+      "thumbnail": "",
+      "media": {
+        "kind": "none",
+        "youtube_id": "",
+        "images": []
+      },
+      "url": "/blog/you-want-to-buy"
+    },
+    {
+      "title": "You Are Renting",
+      "date": "2026-01-27",
+      "type": "renter",
+      "tags": [
+        "renter"
+      ],
+      "excerpt": "Renting isn’t wrong. This is a test renter blog.",
+      "slug": "you-are-renting",
+      "thumbnail": "",
+      "media": {
+        "kind": "none",
+        "youtube_id": "",
+        "images": []
+      },
+      "url": "/blog/you-are-renting"
+    },
+    {
+      "title": "You Want to Sell",
+      "date": "2026-01-27",
+      "type": "seller",
+      "tags": [
+        "seller"
+      ],
+      "excerpt": "Sell now. This is a test seller blog.",
+      "slug": "you-want-to-sell",
+      "thumbnail": "",
+      "media": {
+        "kind": "none",
+        "youtube_id": "",
+        "images": []
+      },
+      "url": "/blog/you-want-to-sell"
+    }
+  ]
+}
