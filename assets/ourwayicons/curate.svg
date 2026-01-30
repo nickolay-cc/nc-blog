@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742.22 737.66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 21.62px;
+      }
+    </style>
+  </defs>
+  <g id="Real_Estate_Service_Icons" data-name="Real Estate Service Icons">
+    <g id="Curate">
+      <circle id="we_personalize_your_home_search" data-name="we personalize your home search" class="cls-1" cx="370.59" cy="370.59" r="207.1"/>
+      <path id="we_personalize_your_home_search-2" data-name="we personalize your home search" class="cls-1" d="M23.08,464.07c-8-29.81-12.27-61.15-12.27-93.48C10.81,171.89,171.89,10.81,370.59,10.81c104.88,0,199.28,44.88,265.04,116.48"/>
+      <path id="we_personalize_your_home_search-3" data-name="we personalize your home search" class="cls-1" d="M194.7,474.05c36.56-58.67,101.66-97.71,175.88-97.71s138.96,38.83,175.58,97.23"/>
+      <circle id="we_personalize_your_home_search-4" data-name="we personalize your home search" class="cls-1" cx="372.5" cy="301.55" r="75.41"/>
+      <path id="we_personalize_your_home_search-5" data-name="we personalize your home search" class="cls-1" d="M565.11,139.93h69.92c8.63,0,15.63-7,15.63-15.63V58.36"/>
+      <path id="we_personalize_your_home_search-6" data-name="we personalize your home search" class="cls-1" d="M719.15,273.59c8,29.81,12.27,61.15,12.27,93.48,0,198.7-161.08,359.78-359.78,359.78-104.88,0-199.28-44.88-265.04-116.48"/>
+      <path id="we_personalize_your_home_search-7" data-name="we personalize your home search" class="cls-1" d="M177.11,597.72h-69.92c-8.63,0-15.63,7-15.63,15.63v65.94"/>
+    </g>
+  </g>
+</svg>
