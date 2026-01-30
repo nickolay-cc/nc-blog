@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 835.11 771.71">
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 835.1 771.7">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs>
     <style>
-      .cls-1 {
-        stroke-width: 16.52px;
+      .st0 {
+        stroke-width: 16.5px;
       }
 
-      .cls-1, .cls-2 {
+      .st0, .st1, .st2 {
         fill: none;
         stroke: #000;
         stroke-linecap: round;
+      }
+
+      .st0, .st2 {
         stroke-miterlimit: 10;
       }
 
-      .cls-2 {
-        stroke-width: 23.15px;
+      .st1 {
+        stroke-miterlimit: 10;
+        stroke-width: 23.1px;
+      }
+
+      .st2 {
+        stroke-width: 23.1px;
       }
     </style>
   </defs>
-  <g id="Real_Estate_Service_Icons" data-name="Real Estate Service Icons">
+  <g id="Real_Estate_Service_Icons">
     <g id="Move">
-      <rect id="we_help_you_navigate_the_real_estate_market_in_niagara" data-name="we help you navigate the real estate market in niagara" class="cls-2" x="-11.73" y="569.45" width="247.73" height="130.39" rx="41.55" ry="41.55" transform="translate(623.17 241.96) rotate(62.48)"/>
-      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-2" data-name="we help you navigate the real estate market in niagara" class="cls-2" d="M132.63,532.59l142.98-84.41c13.2-7.79,29.1-9.58,43.7-4.91l229.97,73.56c22.17,7.09,34.49,30.71,27.63,52.95h0c-6.81,22.08-30.04,34.65-52.25,28.29l-114.87-32.92"/>
-      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-3" data-name="we help you navigate the real estate market in niagara" class="cls-2" d="M656.69,558.49l102.68-61.12c19.86-11.82,45.52-5.58,57.74,14.03h0c12.31,19.75,6.41,45.73-13.22,58.24l-262.08,162.66c-19.14,11.88-42.43,15.06-64.05,8.75l-210.94-61.52c-7.7-2.25-15.95-1.68-23.28,1.59l-27.35,12.22"/>
-      <circle id="we_help_you_navigate_the_real_estate_market_in_niagara-4" data-name="we help you navigate the real estate market in niagara" class="cls-1" cx="136.23" cy="693.85" r="9.29"/>
-      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-5" data-name="we help you navigate the real estate market in niagara" class="cls-2" d="M798.9,224.39L601.77,27.25c-1.25-1.84-2.65-3.61-4.29-5.25-7.11-7.11-16.46-10.56-25.78-10.43-9.32-.13-18.67,3.32-25.78,10.43-1.63,1.63-3.04,3.41-4.29,5.25l-197.13,197.13c-13.97,13.97-13.97,36.62,0,50.59h0c13.97,13.97,36.62,13.97,50.59,0l176.6-176.6,176.6,176.6c13.97,13.97,36.62,13.97,50.59,0h0c13.97-13.97,13.97-36.62,0-50.59Z"/>
-      <line id="we_help_you_navigate_the_real_estate_market_in_niagara-6" data-name="we help you navigate the real estate market in niagara" class="cls-2" x1="412.05" y1="263.36" x2="412.05" y2="434.74"/>
-      <line id="we_help_you_navigate_the_real_estate_market_in_niagara-7" data-name="we help you navigate the real estate market in niagara" class="cls-2" x1="730.95" y1="263.36" x2="730.95" y2="462"/>
-      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-8" data-name="we help you navigate the real estate market in niagara" class="cls-2" d="M633.75,441.36v-108.83c0-31.11-25.22-56.33-56.33-56.33h0c-31.11,0-56.33,25.22-56.33,56.33v108.83"/>
+      <rect id="we_help_you_navigate_the_real_estate_market_in_niagara" class="st1" x="47" y="510.8" width="130.4" height="247.7" rx="41.5" ry="41.5" transform="translate(-280.6 123.6) rotate(-27.5)"/>
+      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-2" class="st2" d="M132.6,532.6l143-84.4c13.2-7.8,29.1-9.6,43.7-4.9l230,73.6c22.2,7.1,34.5,30.7,27.6,53h0c-6.8,22.1-30,34.7-52.2,28.3l-114.9-32.9"/>
+      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-3" class="st2" d="M656.7,558.5l102.7-61.1c19.9-11.8,45.5-5.6,57.7,14h0c12.3,19.8,6.4,45.7-13.2,58.2l-262.1,162.7c-19.1,11.9-42.4,15.1-64,8.8l-210.9-61.5c-7.7-2.2-15.9-1.7-23.3,1.6l-27.4,12.2"/>
+      <circle id="we_help_you_navigate_the_real_estate_market_in_niagara-4" class="st0" cx="136.2" cy="693.8" r="9.3" transform="translate(-38.2 8.6) rotate(-3.2)"/>
+      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-5" class="st2" d="M786.5,212L601.8,27.2c-1.2-1.8-2.7-3.6-4.3-5.2-7.1-7.1-16.5-10.6-25.8-10.4-9.3-.1-18.7,3.3-25.8,10.4-1.6,1.6-3,3.4-4.3,5.2l-197.1,197.1c-14,14-14,36.6,0,50.6h0c14,14,36.6,14,50.6,0l176.6-176.6,176.6,176.6c14,14,36.6,14,50.6,0h0c14-14,14-36.6,0-50.6l-12.4-12.4Z"/>
+      <line id="we_help_you_navigate_the_real_estate_market_in_niagara-6" class="st2" x1="412" y1="263.4" x2="412" y2="434.7"/>
+      <line id="we_help_you_navigate_the_real_estate_market_in_niagara-7" class="st2" x1="731" y1="263.4" x2="731" y2="462"/>
+      <path id="we_help_you_navigate_the_real_estate_market_in_niagara-8" class="st2" d="M633.8,441.4v-108.8c0-31.1-25.2-56.3-56.3-56.3h0c-31.1,0-56.3,25.2-56.3,56.3v108.8"/>
     </g>
   </g>
 </svg>
