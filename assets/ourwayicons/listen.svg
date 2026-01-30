@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490.1 788.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 20.53px;
+      }
+    </style>
+  </defs>
+  <g id="Real_Estate_Service_Icons" data-name="Real Estate Service Icons">
+    <g id="Listen">
+      <path id="we_listen_your_real_estate_question" data-name="we listen your real estate question" class="cls-1" d="M372.54,243.89c0-69.34-56.21-125.56-125.56-125.56s-125.56,56.21-125.56,125.56v58.93s10.76.4,11.33.4c49.63,0,89.86,40.23,89.86,89.86s-40.23,89.86-89.86,89.86"/>
+      <path id="we_listen_your_real_estate_question-2" data-name="we listen your real estate question" class="cls-1" d="M10.71,683.08c11.1,54.26,59.11,95.07,116.65,95.07,65.76,0,119.07-53.31,119.07-119.07,0-29.21,7.97-58.38,21.71-84.09,24.17-45.22,67.64-69.91,106.18-101.39,78.69-64.27,124.96-190.4,97.61-289.83C444.42,83.75,352.8,10.27,244.03,10.27,125.41,10.27,27.2,97.65,10.27,211.56"/>
+      <path id="we_listen_your_real_estate_question-3" data-name="we listen your real estate question" class="cls-1" d="M169.04,665.61c0,26.62-21.58,48.19-48.19,48.19s-48.19-21.58-48.19-48.19"/>
+      <path id="we_listen_your_real_estate_question-4" data-name="we listen your real estate question" class="cls-1" d="M201.42,232.4c0-26.62,21.58-48.19,48.19-48.19s48.19,21.58,48.19,48.19"/>
+    </g>
+  </g>
+</svg>
